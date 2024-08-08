@@ -1,2 +1,2 @@
 # Differential Expression Analysis
-Differential expression analysis project investigating mutations between male patients with and without a MUC16 mutation. .
+Investigating significant differential gene expressions amongst male patients with and without a MUC16 mutation.
